@@ -1,6 +1,6 @@
 
 ### <div align='center'> Olá, eu sou o Pedro Vieira! 👋</div>
-<div align='center'>🌱 Atualmente estou aprendendo Javascript, Java!</div>
+<div align='center'>🌱 Atualmente estou aprendendo Javascript e Java! // I'm currently learning Javascript and Java!</div>
 
 ##
 
