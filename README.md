@@ -27,5 +27,10 @@
   <a href = "mailto:pedrovs3@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
   
+  <p align="center"> Visitas ao meu perfil: </p>
+  <p align="center">   <img style="color=blue" align="center" src="https://profile-counter.glitch.me/pedrovs3/count.svg" /></p>
+  
+  ##
+  
 ![Snake animation](https://github.com/pedrovs3/pedrovs3/blob/output/github-contribution-grid-snake.svg)
 
