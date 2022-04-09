@@ -27,7 +27,7 @@
         <br/>
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+  <a href="https://github.com/pedrovs3/New-Personagem-site" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>  
       </p>
@@ -42,7 +42,7 @@
         <br/>
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+  <a href="https://github.com/pedrovs3/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>  
       </p>
