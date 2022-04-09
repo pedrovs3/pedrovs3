@@ -36,7 +36,7 @@
     <td width="50%" valign="top">
       <h3 align="center">My Portfolio</h3>
         <br/>
-        <a target="_blank" href="https://github.com/pedrovs3/portfolio/">
+        <a target="_blank" href="https://pedro-vieira-portfolio.netlify.app/">
             <img src="https://github.com/pedrovs3/pedrovs3/blob/main/images/portfolio.jpg" width="100%" alt="Miles Concept"/>
         </a>
         <br/>
