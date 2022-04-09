@@ -14,14 +14,43 @@
 </div>
   
   <h2 align="center">Top Projects</h2>
- <div align="center">
-   
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrovs3&repo=portfolio&show_owner=true&theme=midnight-purple)](https://github.com/pedrovs3/portfolio)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedrovs3&repo=calculadora-JS&show_owner=true&theme=midnight-purple)](https://github.com/pedrovs3/calculadora-JS)
-   
- </div>
   
-##
+  <table bordercolor="#7F3ACE">
   
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Miles Morales Website Concept</h3>
+        <br/>
+        <a target="_blank" href="https://pedrovs3.github.io/New-Personagem-site/">
+            <img src="https://github.com/pedrovs3/pedrovs3/blob/main/images/Miles.jpg" width="100%" alt="Miles Concept"/>
+        </a>
+        <br/>
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>  
+      </p>
+        <p align="center">One of the exercises proposed in the SENAI system development class</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">My Portfolio</h3>
+        <br/>
+        <a target="_blank" href="https://github.com/pedrovs3/portfolio/">
+            <img src="https://github.com/pedrovs3/pedrovs3/blob/main/images/portfolio.jpg" width="100%" alt="Miles Concept"/>
+        </a>
+        <br/>
+        <p align="center">
+          
+  <a href="https://github.com/CharlesCreativeContent/lucid" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>  
+      </p>
+        <p align="center">My portfolio with contact areas and some fun facts about me!</p>
+    </td>
+  </tr>
+</table>
+       
   <div align='center'>
     <img align="center" alt="pedro-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="pedro-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
