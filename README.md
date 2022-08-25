@@ -20,7 +20,7 @@
     
 ###
 
-   [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,nodejs,express,python)](https://skills.thijs.gg)
+   [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,java,nodejs,mongodb,express,python)](https://skills.thijs.gg)
    
  ---
 
