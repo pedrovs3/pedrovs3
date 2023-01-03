@@ -4,18 +4,23 @@
 
 ##
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-beta-coral.vercel.app/api?username=pedrovs3&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)](https://git.io/streak-stats" />
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api?username=pedrovs3&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)](https://git.io/streak-stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api/top-langs/?layout=compact&langs_count=7&theme=midnight-purple&username=pedrovs3&hide=ejs" />
+  </a>
+</div>
+
+<div align="center">
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=pedrovs3&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-beta-coral.vercel.app/api/top-langs/?layout=compact&langs_count=7&theme=midnight-purple&username=pedrovs3&hide=ejs" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=pedrovs3&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-beta-coral.vercel.app/api/wakatime?username=pedrovs&langs_count=5&&theme=midnight-purple" />
+  <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api/wakatime?username=pedrovs&langs_count=5&&theme=midnight-purple" />
 </a>    
+</div>
   </div>
   <div align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-vieira-silva-06839b239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
