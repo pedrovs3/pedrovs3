@@ -4,14 +4,13 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/pedrovs3">
-  <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api?username=pedrovs3&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api/top-langs/?layout=compact&langs_count=7&theme=midnight-purple&username=pedrovs3&hide=ejs"/>
-  <div align="center">
+   [![GitHub Stats](https://github-readme-stats-beta-coral.vercel.app/api?username=pedrovs3&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)](https://git.io/streak-stats)
+   [![Pedro top langs](https://github-readme-stats-beta-coral.vercel.app/api/top-langs/?layout=compact&langs_count=7&theme=midnight-purple&username=pedrovs3&hide=ejs)](https://git.io/streak-stats)
     
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedrovs3&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+   [![Wakatime stats](https://github-readme-stats-beta-coral.vercel.app/api/wakatime?username=pedrovs&langs_count=5&&theme=midnight-purple)](https://git.io/streak-stats)
   
+    
   </div>
   <div align="center">
   <a href="https://www.linkedin.com/in/pedro-henrique-vieira-silva-06839b239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
