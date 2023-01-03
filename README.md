@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/pedrovs3">
   <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api?username=pedrovs3&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api/top-langs/?username=pedrovs3&layout=compact&langs_count=7&hide=ejs&theme=midnight-purple"/>
+  <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api/top-langs/?layout=compact&langs_count=7&theme=midnight-purple&username=pedrovs3&hide=ejs"/>
   <div align="center">
     
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pedrovs3&theme=midnight-purple&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
