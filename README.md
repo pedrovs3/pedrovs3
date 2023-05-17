@@ -16,10 +16,7 @@
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=pedrovs3&theme=midnight-purple&hide_border=true&border_radius=18&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-  
-<a href="#">
-  <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api/wakatime?username=pedrovs&langs_count=5&&hide_border=true&border_radius=18&theme=midnight-purple" />
-</a>    
+
 </div>
   </div>
   
@@ -33,7 +30,7 @@
 ###
 <div align="center">
   
-   [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,tailwind,kotlin,nodejs,express,mysql,mongodb)](https://skills.thijs.gg)
+   [![My Skills](https://skills.thijs.gg/icons?i=js,ts,prisma,nodejs,react,tailwind,kotlin,spring,mysql,azure)](https://skills.thijs.gg)
 
 </div>
 
