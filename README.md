@@ -1,6 +1,6 @@
 
 ### <div align='center'> Olá, eu sou o Pedro Vieira! 👋</div>
-<div align='center'>🌱 Atualmente estou aprendendo Javascript para front e back-end e kotlin para dispositivos móveis! // I'm currently studying Javascript for front and backend and kotlin for mobile devices!</div>
+<div align='center'>🌱 Atualmente estou aprendendo Typescript para front e back-end e kotlin para dispositivos móveis! // I'm currently studying Javascript for front and backend and kotlin for mobile devices!</div>
 
 ##
 
