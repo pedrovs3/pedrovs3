@@ -32,7 +32,7 @@
 ###
 <div align="center">
   
-   [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nextjs,vite,sass,nodejs,tailwind,kotlin,mysql,azure,firebase)](https://skills.thijs.gg)
+   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,sass,nodejs,tailwind,kotlin,mysql,azure,firebase)](https://skillicons.dev)
 
 </div>
 </div>
