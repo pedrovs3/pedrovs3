@@ -33,6 +33,10 @@
   
    [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,sass,nodejs,tailwind,kotlin,mysql,azure,firebase)](https://skillicons.dev)
 
-   ![snake gif](https://github.com/pedrovs3/pedrovs3/blob/output/github-contribution-grid-snake.svg)
+<!--   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pedrovs3/pedrovs3/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/pedrovs3/pedrovs3/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/pedrovs3/pedrovs3/blob/output/github-contribution-grid-snake.svg" />
+  </picture> -->
 </div>
 </div>
