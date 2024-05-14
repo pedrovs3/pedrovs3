@@ -26,7 +26,6 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-vieira-silva-06839b239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrovs3@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://www.hackerrank.com/profile/pedrovs3"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>  
-  
  </div>
     
 ###
@@ -35,4 +34,7 @@
    [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,sass,nodejs,tailwind,kotlin,mysql,azure,firebase)](https://skillicons.dev)
 
 </div>
+
+ ![snake gif](https://github.com/pedrovs3/pedrovs3/blob/output/github-contribution-grid-snake.svg)
+
 </div>
