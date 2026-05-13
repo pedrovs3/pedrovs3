@@ -6,16 +6,16 @@
 
 <div align="center">
   <a href="#">
-    <img align="center" height="180em" src="https://github-readme-stats-vss9.vercel.app/api?username=pedrovs3&show_icons=true&theme=midnight-purple&include_all_commits=true&border_radius=12&hide_border=true&count_private=true)](https://git.io/streak-stats" />
+    <img align="center" height="180em" src="https://readme-stats.pedrovs.dev/api?username=pedrovs3&show_icons=true&theme=midnight-purple&include_all_commits=true&border_radius=12&hide_border=true&count_private=true" />
   </a>
   <a href="#">
-    <img align="center" height="180em" src="https://github-readme-stats-vss9.vercel.app/api/top-langs/?layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&username=pedrovs3&hide=ejs,html,css,scss"/>
+    <img align="center" height="180em" src="https://readme-stats.pedrovs.dev/api/top-langs/?layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&username=pedrovs3&hide=ejs,html,css,scss"/>
   </a>
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=pedrovs3&theme=midnight-purple&hide_border=true&border_radius=18&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+  [![GitHub Streak](https://gh-streak-stats.pedrovs.dev/?user=pedrovs3&theme=midnight-purple&hide_border=true&border_radius=18&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat&mode=weekly)](https://git.io/streak-stats)
 
 </div>
   </div>
