@@ -31,7 +31,7 @@
 ###
 <div align="center">
   
-   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,sass,nodejs,tailwind,kotlin,mysql,azure,firebase)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,vite,nodejs,tailwind,kotlin,mysql,azure,firebase)](https://skillicons.dev)
 
 <!--   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/pedrovs3/pedrovs3/blob/output/github-contribution-grid-snake.svg" />
